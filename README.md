@@ -9,7 +9,7 @@ Puedes inspirarte en situaciones cotidianas, como:
   - Determinar si un correo es spam o no spam a partir de algunas palabras clave.
 
 El ejercicio debe incluir:
-  i. La creación del conjunto de datos.
-  ii. El uso de un modelo supervisado con alguna librería de Python (scikit-learn, pandas, etc.).
-  iii. La predicción con un nuevo dato.
-  iv. Una breve explicación de los resultados obtenidos.
+  - La creación del conjunto de datos.
+  - El uso de un modelo supervisado con alguna librería de Python (scikit-learn, pandas, etc.).
+  - La predicción con un nuevo dato.
+  - Una breve explicación de los resultados obtenidos.
